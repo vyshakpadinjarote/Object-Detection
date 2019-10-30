@@ -34,7 +34,7 @@ conda activate tensorflow_gpuenv
 
 TensorFlow is now installed and ready for use. 
 
-### Install the packages one by one as per your requirement
+### Install the packages one by one as per your requirement in it.
 
 when you rin the code and at the beginning of your code will be like this :
 
